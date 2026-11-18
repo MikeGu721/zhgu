@@ -1,0 +1,348 @@
+{
+  "date_policy": "Paper milestones use formal publication dates, as requested. Race milestone uses the user-provided finish date. Missing days are not inferred.",
+  "dated": [
+    {
+      "date": "2026-11-15",
+      "date_kind": "race_completed",
+      "precision": "day",
+      "title": {
+        "en": "Finished the Xihong 70 km trail race",
+        "zh": "完成西宏 70 公里越野跑"
+      },
+      "description": {
+        "en": "The Ultra-Trail Xihong 168 autumn - 70km.",
+        "zh": "The Ultra-Trail Xihong 168 autumn - 70km。"
+      },
+      "link": "#photography",
+      "sources": [
+        "User-provided completion date and photograph"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "date_kind": "publication",
+      "precision": "month",
+      "title": {
+        "en": "3 papers published · ACL 2026",
+        "zh": "3 篇论文发表于 ACL 2026"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2608.12341",
+          "label": "Knowledge–Behavior Gap"
+        },
+        {
+          "id": "2608.12342",
+          "label": "Financial-document error detection"
+        },
+        {
+          "id": "2502.18545",
+          "label": "PII-Bench"
+        }
+      ],
+      "sources": [
+        "https://aclanthology.org/2026.acl-long.1424/",
+        "https://aclanthology.org/2026.findings-acl.1481/",
+        "https://aclanthology.org/2026.acl-long.227/"
+      ],
+      "note": {
+        "en": "Publication month",
+        "zh": "正式发表月份"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "date_kind": "publication",
+      "precision": "day",
+      "title": {
+        "en": "1 paper published · IEEE TKDE",
+        "zh": "1 篇论文发表于 IEEE TKDE"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "10.1109/tkde.2026.3702048",
+          "label": "Caf4AVC"
+        }
+      ],
+      "sources": [
+        "https://ieeexplore.ieee.org/document/11557203/",
+        "https://api.crossref.org/works/10.1109%2FTKDE.2026.3702048",
+        "https://www.eol.cn/jiangsu/jsgd/202610/t20261010_2780797.shtml"
+      ]
+    },
+    {
+      "date": "2026-06",
+      "date_kind": "publication",
+      "precision": "month",
+      "title": {
+        "en": "1 paper published · CVPR 2026",
+        "zh": "1 篇论文发表于 CVPR 2026"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2505.12200",
+          "label": "CompBench"
+        }
+      ],
+      "sources": [
+        "https://github.com/comp-bench/CompBench/blob/master/README.md",
+        "https://dblp.dagstuhl.de/rec/conf/cvpr/JiaHTQLCZZGYBOCZWXL26.html",
+        "https://openaccess.thecvf.com/content/CVPR2026/html/Jia_CompBench_Benchmarking_Complex_Instruction-guided_Image_Editing_CVPR_2026_paper.html"
+      ],
+      "note": {
+        "en": "Publication month",
+        "zh": "正式发表月份"
+      }
+    },
+    {
+      "date": "2025-07",
+      "date_kind": "publication",
+      "precision": "month",
+      "title": {
+        "en": "3 papers published · ACL 2025",
+        "zh": "3 篇论文发表于 ACL 2025"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2503.20194",
+          "label": "GAPO"
+        },
+        {
+          "id": "2501.01652",
+          "label": "MIRAGE"
+        },
+        {
+          "id": "2406.10621",
+          "label": "StrucText-Eval"
+        }
+      ],
+      "sources": [
+        "https://aclanthology.org/2025.acl-long.13/",
+        "https://aclanthology.org/2025.acl-short.2/",
+        "https://aclanthology.org/2025.acl-long.11/"
+      ],
+      "note": {
+        "en": "Publication month",
+        "zh": "正式发表月份"
+      }
+    },
+    {
+      "date": "2025-04-06",
+      "date_kind": "publication",
+      "precision": "day",
+      "title": {
+        "en": "2 papers published · ICASSP 2025",
+        "zh": "2 篇论文发表于 ICASSP 2025"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2409.01787",
+          "label": "LLM-GAN"
+        },
+        {
+          "id": "2403.07825",
+          "label": "The Missing Piece in Model Editing"
+        }
+      ],
+      "sources": [
+        "https://ieeexplore.ieee.org/document/10889048/",
+        "https://api.crossref.org/works/10.1109%2FICASSP49660.2025.10889048",
+        "https://ieeexplore.ieee.org/document/10890406/",
+        "https://api.crossref.org/works/10.1109%2FICASSP49660.2025.10890406"
+      ]
+    },
+    {
+      "date": "2024-11",
+      "date_kind": "publication",
+      "precision": "month",
+      "title": {
+        "en": "2 papers published · EMNLP 2024",
+        "zh": "2 篇论文发表于 EMNLP 2024"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2406.12641",
+          "label": "DetectBench"
+        },
+        {
+          "id": "2404.12753",
+          "label": "AutoScraper"
+        }
+      ],
+      "sources": [
+        "https://aclanthology.org/2024.findings-emnlp.11/",
+        "https://aclanthology.org/2024.emnlp-main.141/"
+      ],
+      "note": {
+        "en": "Publication month",
+        "zh": "正式发表月份"
+      }
+    },
+    {
+      "date": "2024-03-24",
+      "date_kind": "publication",
+      "precision": "day",
+      "title": {
+        "en": "1 paper published · AAAI 2024",
+        "zh": "1 篇论文发表于 AAAI 2024"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2306.05783",
+          "label": "Xiezhi"
+        }
+      ],
+      "sources": [
+        "https://ojs.aaai.org/index.php/AAAI/article/view/29767"
+      ]
+    },
+    {
+      "date": "2024",
+      "date_kind": "publication",
+      "precision": "year",
+      "title": {
+        "en": "2 papers at NDBC 2024",
+        "zh": "2 篇论文入选 NDBC 2024"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2407.12005",
+          "label": "VCEval"
+        },
+        {
+          "id": "2303.14425",
+          "label": "Sem4SAP"
+        }
+      ],
+      "sources": [
+        "https://scholar.google.com/citations?user=YCfdAqEAAAAJ",
+        "https://arxiv.org/abs/2407.12005",
+        "https://scholar.google.com/citations?user=YCfdAqEAAAAJ",
+        "https://arxiv.org/abs/2303.14425"
+      ],
+      "note": {
+        "en": "Publication / conference year",
+        "zh": "发表／会议年份"
+      }
+    },
+    {
+      "date": "2023-11-13",
+      "date_kind": "publication",
+      "precision": "day",
+      "title": {
+        "en": "1 paper published · Epidemiology & Infection",
+        "zh": "1 篇论文发表于 Epidemiology & Infection"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "10.1017/S0950268823001796",
+          "label": "COVID-19 intervention modeling"
+        }
+      ],
+      "sources": [
+        "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/evaluation-of-phaseadjusted-interventions-for-covid19-using-an-improved-seir-model/C55A2502EFFCCD3993A4F077E96A6DCB",
+        "https://pubmed.ncbi.nlm.nih.gov/37953743/"
+      ]
+    },
+    {
+      "date": "2023-06-26",
+      "date_kind": "publication",
+      "precision": "day",
+      "title": {
+        "en": "1 paper published · AAAI 2023",
+        "zh": "1 篇论文发表于 AAAI 2023"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2303.14480",
+          "label": "GANTEE"
+        }
+      ],
+      "sources": [
+        "https://ojs.aaai.org/index.php/AAAI/article/view/25785",
+        "https://api.crossref.org/works/10.1609%2Faaai.v37i5.25785"
+      ]
+    },
+    {
+      "date": "2022-10",
+      "date_kind": "publication",
+      "precision": "month",
+      "title": {
+        "en": "1 paper published · COLING 2022",
+        "zh": "1 篇论文发表于 COLING 2022"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2022.coling-1.481",
+          "label": "Natural language to logic"
+        }
+      ],
+      "sources": [
+        "https://aclanthology.org/2022.coling-1.481/"
+      ],
+      "note": {
+        "en": "Publication month",
+        "zh": "正式发表月份"
+      }
+    },
+    {
+      "date": "2022-05",
+      "date_kind": "publication",
+      "precision": "month",
+      "title": {
+        "en": "1 paper published · ICDE 2022",
+        "zh": "1 篇论文发表于 ICDE 2022"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "2203.14921",
+          "label": "Learning What You Need from What You Did"
+        }
+      ],
+      "sources": [
+        "https://ieeexplore.ieee.org/document/9835349/",
+        "https://api.crossref.org/works/10.1109%2FICDE53745.2022.00310"
+      ],
+      "note": {
+        "en": "Publication month",
+        "zh": "正式发表月份"
+      }
+    },
+    {
+      "date": "2011",
+      "date_kind": "publication",
+      "precision": "year",
+      "title": {
+        "en": "An article in 现代语文",
+        "zh": "文章发表于《现代语文》"
+      },
+      "description": {},
+      "papers": [
+        {
+          "id": "shikumen-2011",
+          "label": "我爱我家——上海石库门"
+        }
+      ],
+      "sources": [
+        "https://scholar.google.com/citations?user=YCfdAqEAAAAJ"
+      ],
+      "note": {
+        "en": "Publication / conference year",
+        "zh": "发表／会议年份"
+      }
+    }
+  ],
+  "undated": []
+}

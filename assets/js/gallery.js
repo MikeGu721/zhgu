@@ -52,8 +52,9 @@
     return element;
   };
   const titleFor = (photo) => localized(photo.title, labels.untitled);
-  const metadataFor = (photo) => [localized(photo.location),
-    typeof photo.year === 'string' || typeof photo.year === 'number' ? String(photo.year) : '']
+  const dateFor = (photo) => typeof photo.date === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(photo.date)
+    ? photo.date : typeof photo.year === 'string' || typeof photo.year === 'number' ? String(photo.year) : '';
+  const metadataFor = (photo) => [localized(photo.location), dateFor(photo)]
     .filter(Boolean).join(' · ');
   const altFor = (photo, index) => localized(photo.alt, localized(photo.title, `${labels.photograph} ${index + 1}`));
 
@@ -69,7 +70,9 @@
   const caption = create('figcaption', 'photo-dialog-caption');
   const title = create('h3', 'photo-dialog-title');
   const metadata = create('p', 'photo-dialog-meta');
-  caption.append(title, metadata);
+  const description = create('p', 'photo-dialog-description');
+  const credit = create('p', 'photo-dialog-credit');
+  caption.append(title, metadata, description, credit);
   figure.append(enlargedImage, caption);
   const controls = create('div', 'photo-dialog-controls');
   const previousButton = button('photo-dialog-prev', '←');
@@ -97,6 +100,10 @@
     title.textContent = titleFor(photo);
     metadata.textContent = metadataFor(photo);
     metadata.hidden = !metadata.textContent;
+    description.textContent = localized(photo.description);
+    description.hidden = !description.textContent;
+    credit.textContent = localized(photo.credit);
+    credit.hidden = !credit.textContent;
     counter.textContent = `${activeIndex + 1} / ${photographs.length}`;
   };
   const open = (index, sourceButton) => {
@@ -149,6 +156,10 @@
     cardCaption.append(create('span', 'photo-card-title', titleFor(photo)));
     const details = metadataFor(photo);
     if (details) cardCaption.append(create('span', 'photo-card-meta', details));
+    const descriptionText = localized(photo.description);
+    if (descriptionText) cardCaption.append(create('span', 'photo-card-description', descriptionText));
+    const creditText = localized(photo.credit);
+    if (creditText) cardCaption.append(create('span', 'photo-card-credit', creditText));
     card.append(image, cardCaption);
     card.addEventListener('click', () => open(index, card));
     return card;

@@ -1,0 +1,1233 @@
+{
+  "updated": "2026-11-18",
+  "date_policy": "First public release, newest first. arXiv dates are first submission dates (UTC). Missing day/month is never filled in. Superseded records are merged.",
+  "works": [
+    {
+      "id": "2608.22390",
+      "title": "SchemaGUI: A Schema-Driven Benchmark for Controllable GUI Generation Evaluation",
+      "authors": [
+        "Jiarui Dong",
+        "Yin Cai",
+        "Zhouhong Gu",
+        "Chenmou Wu",
+        "Ci Tao",
+        "Yiran Chen",
+        "Jialing Li",
+        "Xiaoran Shi",
+        "Juntao Zhang",
+        "Zhijun Fang"
+      ],
+      "date": "2026-08-23",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2608.22390",
+        "url": "https://arxiv.org/abs/2608.22390",
+        "date": "2026-08-23",
+        "title": "SchemaGUI: A Schema-Driven Benchmark for Controllable GUI Generation Evaluation"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "10.1109/tkde.2026.3702048",
+      "title": "Caf4AVC: LLM-Enhanced Collaborative Framework for Attribute Value Canonicalization in Open KBs",
+      "authors": [
+        "Ying He",
+        "Qiang Yang",
+        "Yaxin Wang",
+        "Dan Gao",
+        "Zhouhong Gu",
+        "Zhixu Li",
+        "Yanghua Xiao"
+      ],
+      "date": "2026-06-10",
+      "date_precision": "day",
+      "date_basis": "institutional_publication_record",
+      "arxiv": null,
+      "publication": {
+        "title": "Caf4AVC: LLM-Enhanced Collaborative Framework for Attribute Value Canonicalization in Open KBs",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "publication_date": "2026-06-10",
+        "date_precision": "day",
+        "doi": "10.1109/tkde.2026.3702048",
+        "url": "https://ieeexplore.ieee.org/document/11557203/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://ieeexplore.ieee.org/document/11557203/",
+          "https://api.crossref.org/works/10.1109%2FTKDE.2026.3702048",
+          "https://www.eol.cn/jiangsu/jsgd/202610/t20261010_2780797.shtml"
+        ],
+        "issue_date": "2026-08",
+        "date_note": "Renmin University institutional contribution explicitly gives publication date 2026-06-10; Crossref issue month is 2026-08."
+      },
+      "extra_links": [
+        {
+          "en": "Date source",
+          "zh": "日期来源",
+          "url": "https://www.eol.cn/jiangsu/jsgd/202610/t20261010_2780797.shtml"
+        }
+      ]
+    },
+    {
+      "id": "2608.12341",
+      "title": "The “Knowledge–Behavior Gap” in Cultural Taboo Safety of Large Language Models",
+      "authors": [
+        "Ying He",
+        "Sihang Jiang",
+        "Xingzhou Chen",
+        "Zhouhong Gu",
+        "Yiwei Gu",
+        "Minggui He",
+        "Shimin Tao",
+        "Mahong Xia",
+        "Yanghua Xiao"
+      ],
+      "date": "2026-06-03",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2608.12341",
+        "url": "https://arxiv.org/abs/2608.12341",
+        "date": "2026-06-03",
+        "title": "The \"Knowledge-Behavior Gap\" in Cultural Taboo Safety of Large Language Models"
+      },
+      "publication": {
+        "title": "The “Knowledge–Behavior Gap” in Cultural Taboo Safety of Large Language Models",
+        "venue": "ACL 2026 · Long Papers",
+        "publication_date": "2026-07",
+        "date_precision": "month",
+        "doi": "10.18653/v1/2026.acl-long.1424",
+        "url": "https://aclanthology.org/2026.acl-long.1424/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2026.acl-long.1424/"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": [
+        "The \"Knowledge-Behavior Gap\" in Cultural Taboo Safety of Large Language Models"
+      ]
+    },
+    {
+      "id": "2608.12342",
+      "title": "Are Large Language Models Reliable Reviewers? A Benchmark for Error Detection in Financial Documents",
+      "authors": [
+        "Ying He",
+        "Zhouhong Gu",
+        "Zhecheng Hu",
+        "Yubo Zhou",
+        "Hao Shen",
+        "Jiaqing Liang",
+        "Zhaoqian Dai",
+        "Ma Shuguang",
+        "Fei Yu",
+        "Yanghua Xiao",
+        "Zhixu Li"
+      ],
+      "date": "2026-06-03",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2608.12342",
+        "url": "https://arxiv.org/abs/2608.12342",
+        "date": "2026-06-03",
+        "title": "Are Large Language Models Reliable Reviewers? A Benchmark for Error Detection in Financial Documents"
+      },
+      "publication": {
+        "title": "Are Large Language Models Reliable Reviewers? A Benchmark for Error Detection in Financial Documents",
+        "venue": "Findings of ACL 2026",
+        "publication_date": "2026-07",
+        "date_precision": "month",
+        "doi": "10.18653/v1/2026.findings-acl.1481",
+        "url": "https://aclanthology.org/2026.findings-acl.1481/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2026.findings-acl.1481/"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2606.01091",
+      "title": "Deep Research as Rubric for Reinforcement Learning",
+      "authors": [
+        "Wangyi Mei",
+        "Zhouhong Gu",
+        "Zhenhan Bai",
+        "Yin Cai",
+        "Lefan Zhang",
+        "Zhenxin Ding",
+        "Bo Chen",
+        "Yan Gao",
+        "Yi Wu",
+        "Yao Hu",
+        "Jiaqing Liang",
+        "Deqing Yang"
+      ],
+      "date": "2026-05-31",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2606.01091",
+        "url": "https://arxiv.org/abs/2606.01091",
+        "date": "2026-05-31",
+        "title": "Deep Research as Rubric for Reinforcement Learning"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2606.00655",
+      "title": "Scaling Behavior of Single LLM-Driven Multi-Agent Systems",
+      "authors": [
+        "Jialing Li",
+        "Zhouhong Gu",
+        "Yin Cai",
+        "Hongwei Feng"
+      ],
+      "date": "2026-05-30",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2606.00655",
+        "url": "https://arxiv.org/abs/2606.00655",
+        "date": "2026-05-30",
+        "title": "Scaling Behavior of Single LLM-Driven Multi-Agent Systems"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2601.21654",
+      "title": "ScholarGym: Benchmarking Large Language Model Capabilities in the Information-Gathering Stage of Deep Research",
+      "authors": [
+        "Hao Shen",
+        "Hang Yang",
+        "Zhouhong Gu",
+        "Weili Han"
+      ],
+      "date": "2026-01-29",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2601.21654",
+        "url": "https://arxiv.org/abs/2601.21654",
+        "date": "2026-01-29",
+        "title": "ScholarGym: Benchmarking Large Language Model Capabilities in the Information-Gathering Stage of Deep Research"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": [
+        "ScholarGym: Benchmarking Deep Research Workflows on Academic Literature Retrieval"
+      ],
+      "alias_source": "https://arxiv.org/abs/2601.21654v1"
+    },
+    {
+      "id": "2601.12323",
+      "title": "MARO: Learning Stronger Reasoning from Social Interaction",
+      "authors": [
+        "Yin Cai",
+        "Zhouhong Gu",
+        "Juntao Zhang",
+        "Ping Chen"
+      ],
+      "date": "2026-01-18",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2601.12323",
+        "url": "https://arxiv.org/abs/2601.12323",
+        "date": "2026-01-18",
+        "title": "MARO: Learning Stronger Reasoning from Social Interaction"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2506.15451",
+      "title": "AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need",
+      "authors": [
+        "Zhouhong Gu",
+        "Xiaoxuan Zhu",
+        "Yin Cai",
+        "Hao Shen",
+        "Xingzhou Chen",
+        "Qingyi Wang",
+        "Jialin Li",
+        "Xiaoran Shi",
+        "Haoran Guo",
+        "Wenxuan Huang",
+        "Hongwei Feng",
+        "Yanghua Xiao",
+        "Zheyu Ye",
+        "Yao Hu",
+        "Shaosheng Cao"
+      ],
+      "date": "2025-06-18",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2506.15451",
+        "url": "https://arxiv.org/abs/2506.15451",
+        "date": "2025-06-18",
+        "title": "AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2505.12200",
+      "title": "CompBench: Benchmarking Complex Instruction-guided Image Editing",
+      "authors": [
+        "Bohan Jia",
+        "Wenxuan Huang",
+        "Yuntian Tang",
+        "Junbo Qiao",
+        "Jincheng Liao",
+        "Shaosheng Cao",
+        "Fei Zhao",
+        "Zhaopeng Feng",
+        "Zhouhong Gu",
+        "Zhenfei Yin",
+        "Lei Bai",
+        "Wanli Ouyang",
+        "Lin Chen",
+        "Fei Zhao",
+        "Zihan Wang",
+        "Yuan Xie",
+        "Shaohui Lin"
+      ],
+      "date": "2025-05-18",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2505.12200",
+        "url": "https://arxiv.org/abs/2505.12200",
+        "date": "2025-05-18",
+        "title": "CompBench: Benchmarking Complex Instruction-guided Image Editing"
+      },
+      "publication": {
+        "title": "CompBench: Benchmarking Complex Instruction-guided Image Editing",
+        "venue": "CVPR 2026",
+        "publication_date": "2026-06",
+        "date_precision": "month",
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Jia_CompBench_Benchmarking_Complex_Instruction-guided_Image_Editing_CVPR_2026_paper.html",
+        "status": "published",
+        "acceptance_date": "2026-04",
+        "acceptance_date_precision": "month",
+        "acceptance_source": "https://github.com/comp-bench/CompBench/blob/master/README.md",
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://github.com/comp-bench/CompBench/blob/master/README.md",
+          "https://dblp.dagstuhl.de/rec/conf/cvpr/JiaHTQLCZZGYBOCZWXL26.html",
+          "https://openaccess.thecvf.com/content/CVPR2026/html/Jia_CompBench_Benchmarking_Complex_Instruction-guided_Image_Editing_CVPR_2026_paper.html"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2504.01369",
+      "title": "LITE: LLM-Impelled efficient Taxonomy Evaluation",
+      "authors": [
+        "Lin Zhang",
+        "Zhouhong Gu",
+        "Suhang Zheng",
+        "Tao Wang",
+        "Tianyu Li",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2025-04-02",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2504.01369",
+        "url": "https://arxiv.org/abs/2504.01369",
+        "date": "2025-04-02",
+        "title": "LITE: LLM-Impelled efficient Taxonomy Evaluation"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2504.00695",
+      "title": "ToReMi: Topic-Aware Data Reweighting for Dynamic Pre-Training Data Selection",
+      "authors": [
+        "Xiaoxuan Zhu",
+        "Zhouhong Gu",
+        "Baiqian Wu",
+        "Suhang Zheng",
+        "Tao Wang",
+        "Tianyu Li",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2025-04-01",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2504.00695",
+        "url": "https://arxiv.org/abs/2504.00695",
+        "date": "2025-04-01",
+        "title": "ToReMi: Topic-Aware Data Reweighting for Dynamic Pre-Training Data Selection"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2504.00756",
+      "title": "RECKON: Large-scale Reference-based Efficient Knowledge Evaluation for Large Language Model",
+      "authors": [
+        "Lin Zhang",
+        "Zhouhong Gu",
+        "Xiaoran Shi",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2025-04-01",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2504.00756",
+        "url": "https://arxiv.org/abs/2504.00756",
+        "date": "2025-04-01",
+        "title": "RECKON: Large-scale Reference-based Efficient Knowledge Evaluation for Large Language Model"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2503.20194",
+      "title": "GAPO: Learning Preferential Prompt through Generative Adversarial Policy Optimization",
+      "authors": [
+        "Zhouhong Gu",
+        "Xingzhou Chen",
+        "Xiaoran Shi",
+        "Tao Wang",
+        "Suhang Zheng",
+        "Tianyu Li",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2025-03-26",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2503.20194",
+        "url": "https://arxiv.org/abs/2503.20194",
+        "date": "2025-03-26",
+        "title": "GAPO: Learning Preferential Prompt through Generative Adversarial Policy Optimization"
+      },
+      "publication": {
+        "title": "GAPO: Learning Preferential Prompt through Generative Adversarial Policy Optimization",
+        "venue": "ACL 2025 · Long Papers",
+        "publication_date": "2025-07",
+        "date_precision": "month",
+        "doi": "10.18653/v1/2025.acl-long.13",
+        "url": "https://aclanthology.org/2025.acl-long.13/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2025.acl-long.13/"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2502.18545",
+      "title": "PII-Bench: Evaluating Query-Aware Privacy Protection Systems",
+      "authors": [
+        "Hao Shen",
+        "Zhouhong Gu",
+        "Haokai Hong",
+        "Weili Han",
+        "Hongfeng Chai (柴洪峰)"
+      ],
+      "date": "2025-02-25",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2502.18545",
+        "url": "https://arxiv.org/abs/2502.18545",
+        "date": "2025-02-25",
+        "title": "PII-Bench: Evaluating Query-Aware Privacy Protection Systems"
+      },
+      "publication": {
+        "title": "PII-Bench: Evaluating Query-Aware Privacy Protection Systems",
+        "venue": "ACL 2026 · Long Papers",
+        "publication_date": "2026-07",
+        "date_precision": "month",
+        "doi": "10.18653/v1/2026.acl-long.227",
+        "url": "https://aclanthology.org/2026.acl-long.227/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2026.acl-long.227/"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2501.01652",
+      "title": "MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments",
+      "authors": [
+        "Yin Cai",
+        "Zhouhong Gu",
+        "Zhaohan Du",
+        "Zheyu Ye",
+        "Shaosheng Cao",
+        "Yiqian Xu",
+        "Hongwei Feng",
+        "Ping Chen"
+      ],
+      "date": "2025-01-03",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2501.01652",
+        "url": "https://arxiv.org/abs/2501.01652",
+        "date": "2025-01-03",
+        "title": "MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments"
+      },
+      "publication": {
+        "title": "MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments",
+        "venue": "ACL 2025 · Short Papers",
+        "publication_date": "2025-07",
+        "date_precision": "month",
+        "doi": "10.18653/v1/2025.acl-short.2",
+        "url": "https://aclanthology.org/2025.acl-short.2/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2025.acl-short.2/"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2409.01787",
+      "title": "LLM-GAN: Constructing Generative Adversarial Network Through Large Language Models for Explainable Fake News Detection",
+      "authors": [
+        "Yifeng Wang",
+        "Zhouhong Gu",
+        "Siwei Zhang",
+        "Suhang Zheng",
+        "Tao Wang",
+        "Tianyu Li",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2024-09-03",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2409.01787",
+        "url": "https://arxiv.org/abs/2409.01787",
+        "date": "2024-09-03",
+        "title": "LLM-GAN: Construct Generative Adversarial Network Through Large Language Models For Explainable Fake News Detection"
+      },
+      "publication": {
+        "title": "LLM-GAN: Constructing Generative Adversarial Network Through Large Language Models for Explainable Fake News Detection",
+        "venue": "ICASSP 2025",
+        "publication_date": "2025-04-06",
+        "date_precision": "day",
+        "doi": "10.1109/icassp49660.2025.10889048",
+        "url": "https://ieeexplore.ieee.org/document/10889048/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://ieeexplore.ieee.org/document/10889048/",
+          "https://api.crossref.org/works/10.1109%2FICASSP49660.2025.10889048"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": [
+        "LLM-GAN: Construct Generative Adversarial Network Through Large Language Models For Explainable Fake News Detection"
+      ]
+    },
+    {
+      "id": "2406.12641",
+      "title": "DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?",
+      "authors": [
+        "Zhouhong Gu",
+        "Lin Zhang",
+        "Xiaoxuan Zhu",
+        "Jiangjie Chen",
+        "Wenhao Huang",
+        "Yikai Zhang",
+        "Shusen Wang",
+        "Zheyu Ye",
+        "Yan Gao",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2024-06-18",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2406.12641",
+        "url": "https://arxiv.org/abs/2406.12641",
+        "date": "2024-06-18",
+        "title": "DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?"
+      },
+      "publication": {
+        "title": "DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?",
+        "venue": "Findings of EMNLP 2024",
+        "publication_date": "2024-11",
+        "date_precision": "month",
+        "doi": "10.18653/v1/2024.findings-emnlp.11",
+        "url": "https://aclanthology.org/2024.findings-emnlp.11/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2024.findings-emnlp.11/"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2407.12005",
+      "title": "VCEval: Rethinking What is a Good Educational Video and How to Automatically Evaluate It",
+      "authors": [
+        "Xiaoxuan Zhu",
+        "Zhouhong Gu",
+        "Sihang Jiang",
+        "Zhixu Li",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2024-06-15",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2407.12005",
+        "url": "https://arxiv.org/abs/2407.12005",
+        "date": "2024-06-15",
+        "title": "VCEval: Rethinking What is a Good Educational Video and How to Automatically Evaluate It"
+      },
+      "publication": {
+        "title": "VCEval: Rethinking What is a Good Educational Video and How to Automatically Evaluate It",
+        "venue": "NDBC 2024",
+        "publication_date": "2024",
+        "date_precision": "year",
+        "doi": null,
+        "url": "https://arxiv.org/abs/2407.12005",
+        "status": "accepted",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "author-profile-only",
+        "sources": [
+          "https://scholar.google.com/citations?user=YCfdAqEAAAAJ",
+          "https://arxiv.org/abs/2407.12005"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2406.10621",
+      "title": "StrucText-Eval: Evaluating Large Language Model’s Reasoning Ability in Structure-Rich Text",
+      "authors": [
+        "Zhouhong Gu",
+        "Haoning Ye",
+        "Xingzhou Chen",
+        "Zeyang Zhou",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2024-06-15",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2406.10621",
+        "url": "https://arxiv.org/abs/2406.10621",
+        "date": "2024-06-15",
+        "title": "StrucText-Eval: Evaluating Large Language Model's Reasoning Ability in Structure-Rich Text"
+      },
+      "publication": {
+        "title": "StrucText-Eval: Evaluating Large Language Model’s Reasoning Ability in Structure-Rich Text",
+        "venue": "ACL 2025 · Long Papers",
+        "publication_date": "2025-07",
+        "date_precision": "month",
+        "doi": "10.18653/v1/2025.acl-long.11",
+        "url": "https://aclanthology.org/2025.acl-long.11/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2025.acl-long.11/"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": [
+        "StructBench: An Autogenerated Benchmark for Evaluating Large Language Model's Ability in Structure-Rich Text Understanding",
+        "StrucText-Eval: Evaluating Large Language Model's Reasoning Ability in Structure-Rich Text"
+      ],
+      "alias_source": "https://arxiv.org/abs/2406.10621v1"
+    },
+    {
+      "id": "2404.12753",
+      "title": "AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation",
+      "authors": [
+        "Wenhao Huang",
+        "Zhouhong Gu",
+        "Chenghao Peng",
+        "Jiaqing Liang",
+        "Zhixu Li",
+        "Yanghua Xiao",
+        "Liqian Wen",
+        "Zulong Chen"
+      ],
+      "date": "2024-04-19",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2404.12753",
+        "url": "https://arxiv.org/abs/2404.12753",
+        "date": "2024-04-19",
+        "title": "AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation"
+      },
+      "publication": {
+        "title": "AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation",
+        "venue": "EMNLP 2024",
+        "publication_date": "2024-11",
+        "date_precision": "month",
+        "doi": "10.18653/v1/2024.emnlp-main.141",
+        "url": "https://aclanthology.org/2024.emnlp-main.141/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2024.emnlp-main.141/"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": [
+        "AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation"
+      ],
+      "alias_source": "https://arxiv.org/abs/2404.12753v1"
+    },
+    {
+      "id": "2403.13433",
+      "title": "AgentGroupChat: An Interactive Group Chat Simulacra For Better Eliciting Emergent Behavior",
+      "authors": [
+        "Zhouhong Gu",
+        "Xiaoxuan Zhu",
+        "Haoran Guo",
+        "Lin Zhang",
+        "Yin Cai",
+        "Hao Shen",
+        "Jiangjie Chen",
+        "Zheyu Ye",
+        "Yifei Dai",
+        "Yan Gao",
+        "Yao Hu",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2024-03-20",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2403.13433",
+        "url": "https://arxiv.org/abs/2403.13433",
+        "date": "2024-03-20",
+        "title": "AgentGroupChat: An Interactive Group Chat Simulacra For Better Eliciting Emergent Behavior"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2403.07825",
+      "title": "The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing",
+      "authors": [
+        "Jianchen Wang",
+        "Zhouhong Gu",
+        "Xiaoxuan Zhu",
+        "Lin Zhang",
+        "Haoning Ye",
+        "Zhuozhi Xiong",
+        "Sihang Jiang",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2024-03-12",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2403.07825",
+        "url": "https://arxiv.org/abs/2403.07825",
+        "date": "2024-03-12",
+        "title": "Efficiently Quantifying and Mitigating Ripple Effects in Model Editing"
+      },
+      "publication": {
+        "title": "The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing",
+        "venue": "ICASSP 2025",
+        "publication_date": "2025-04-06",
+        "date_precision": "day",
+        "doi": "10.1109/icassp49660.2025.10890406",
+        "url": "https://ieeexplore.ieee.org/document/10890406/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://ieeexplore.ieee.org/document/10890406/",
+          "https://api.crossref.org/works/10.1109%2FICASSP49660.2025.10890406"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": [
+        "The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing",
+        "Efficiently Quantifying and Mitigating Ripple Effects in Model Editing"
+      ],
+      "alias_source": "https://arxiv.org/abs/2403.07825v1"
+    },
+    {
+      "id": "2401.05669",
+      "title": "ConcEPT: Concept-Enhanced Pre-Training for Language Models",
+      "authors": [
+        "Xintao Wang",
+        "Zhouhong Gu",
+        "Jiaqing Liang",
+        "Dakuan Lu",
+        "Yanghua Xiao",
+        "Wei Wang"
+      ],
+      "date": "2024-01-11",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2401.05669",
+        "url": "https://arxiv.org/abs/2401.05669",
+        "date": "2024-01-11",
+        "title": "ConcEPT: Concept-Enhanced Pre-Training for Language Models"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "10.1017/S0950268823001796",
+      "title": "Evaluation of phase-adjusted interventions for COVID-19 using an improved SEIR model",
+      "authors": [
+        "Honglin Jiang",
+        "Zhouhong Gu",
+        "Haitong Liu",
+        "Junhui Huang",
+        "Zhengzhong Wang",
+        "Ying Xiong",
+        "Yixin Tong",
+        "Jiangfan Yin",
+        "Feng Jiang",
+        "Yue Chen",
+        "Qingwu Jiang",
+        "Yibiao Zhou"
+      ],
+      "date": "2023-11-13",
+      "date_precision": "day",
+      "date_basis": "publication",
+      "arxiv": null,
+      "publication": {
+        "title": "Evaluation of phase-adjusted interventions for COVID-19 using an improved SEIR model",
+        "venue": "Epidemiology & Infection",
+        "publication_date": "2023-11-13",
+        "date_precision": "day",
+        "doi": "10.1017/S0950268823001796",
+        "url": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/evaluation-of-phaseadjusted-interventions-for-covid19-using-an-improved-seir-model/C55A2502EFFCCD3993A4F077E96A6DCB",
+        "status": "published",
+        "verification": "publisher-confirmed",
+        "sources": [
+          "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/evaluation-of-phaseadjusted-interventions-for-covid19-using-an-improved-seir-model/C55A2502EFFCCD3993A4F077E96A6DCB",
+          "https://pubmed.ncbi.nlm.nih.gov/37953743/"
+        ]
+      },
+      "extra_links": []
+    },
+    {
+      "id": "2309.09150",
+      "title": "Can Large Language Models Understand Real-World Complex Instructions?",
+      "authors": [
+        "Qianyu He",
+        "Jie Zeng",
+        "Wenhao Huang",
+        "Lina Chen",
+        "Jin Xiao",
+        "Qianxi He",
+        "Xunzhe Zhou",
+        "Lida Chen",
+        "Xintao Wang",
+        "Yuncheng Huang",
+        "Haoning Ye",
+        "Zihan Li",
+        "Shisong Chen",
+        "Yikai Zhang",
+        "Zhouhong Gu",
+        "Jiaqing Liang",
+        "Yanghua Xiao"
+      ],
+      "date": "2023-09-17",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2309.09150",
+        "url": "https://arxiv.org/abs/2309.09150",
+        "date": "2023-09-17",
+        "title": "Can Large Language Models Understand Real-World Complex Instructions?"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2308.11761",
+      "title": "KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases",
+      "authors": [
+        "Xintao Wang",
+        "Qianwen Yang",
+        "Yongting Qiu",
+        "Jiaqing Liang",
+        "Qianyu He",
+        "Zhouhong Gu",
+        "Yanghua Xiao",
+        "Wei Wang"
+      ],
+      "date": "2023-08-17",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2308.11761",
+        "url": "https://arxiv.org/abs/2308.11761",
+        "date": "2023-08-17",
+        "title": "KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2307.05113",
+      "title": "Piecing Together Clues: A Benchmark for Evaluating the Detective Skills of Large Language Models",
+      "authors": [
+        "Zhouhong Gu",
+        "Lin Zhang",
+        "Jiangjie Chen",
+        "Haoning Ye",
+        "Xiaoxuan Zhu",
+        "Zihan Li",
+        "Zheyu Ye",
+        "Yan Gao",
+        "Yao Hu",
+        "Yanghua Xiao",
+        "Hongwei Feng"
+      ],
+      "date": "2023-07-11",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2307.05113",
+        "url": "https://arxiv.org/abs/2307.05113",
+        "date": "2023-07-11",
+        "title": "Piecing Together Clues: A Benchmark for Evaluating the Detective Skills of Large Language Models"
+      },
+      "publication": null,
+      "extra_links": [],
+      "title_aliases": [
+        "Beyond the Obvious: Evaluating the Reasoning Ability In Real-life Scenarios of Language Models on Life Scapes Reasoning Benchmark~(LSR-Benchmark)"
+      ],
+      "alias_source": "https://arxiv.org/abs/2307.05113v1"
+    },
+    {
+      "id": "2306.05783",
+      "title": "Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation",
+      "authors": [
+        "Zhouhong Gu",
+        "Xiaoxuan Zhu",
+        "Haoning Ye",
+        "Lin Zhang",
+        "Jianchen Wang",
+        "Yixin Zhu",
+        "Sihang Jiang",
+        "Zhuozhi Xiong",
+        "Zihan Li",
+        "Weijie Wu",
+        "Qianyu He",
+        "Rui Xu",
+        "Wenhao Huang",
+        "Jingping Liu",
+        "Zili Wang",
+        "Shusen Wang",
+        "Weiguo Zheng",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2023-04-23",
+      "date_precision": "day",
+      "date_basis": "earlier_preprint",
+      "arxiv": {
+        "id": "2306.05783",
+        "url": "https://arxiv.org/abs/2306.05783",
+        "date": "2023-06-09",
+        "title": "Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation"
+      },
+      "publication": {
+        "title": "Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation",
+        "venue": "AAAI 2024",
+        "publication_date": "2024-03-24",
+        "date_precision": "day",
+        "doi": "10.1609/aaai.v38i16.29767",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29767",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://ojs.aaai.org/index.php/AAAI/article/view/29767"
+        ]
+      },
+      "extra_links": [
+        {
+          "en": "Earlier preprint",
+          "zh": "早期预印本",
+          "url": "https://arxiv.org/abs/2304.11679"
+        }
+      ],
+      "title_aliases": []
+    },
+    {
+      "id": "2303.14425",
+      "title": "Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining",
+      "authors": [
+        "Zhouhong Gu",
+        "Sihang Jiang",
+        "Wenhao Huang",
+        "Jiaqing Liang",
+        "Hongwei Feng",
+        "Yanghua Xiao"
+      ],
+      "date": "2023-03-25",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2303.14425",
+        "url": "https://arxiv.org/abs/2303.14425",
+        "date": "2023-03-25",
+        "title": "Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining"
+      },
+      "publication": {
+        "title": "Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining",
+        "venue": "NDBC 2024",
+        "publication_date": "2024",
+        "date_precision": "year",
+        "doi": null,
+        "url": "https://arxiv.org/abs/2303.14425",
+        "status": "accepted",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "author-profile-only",
+        "sources": [
+          "https://scholar.google.com/citations?user=YCfdAqEAAAAJ",
+          "https://arxiv.org/abs/2303.14425"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "2303.14480",
+      "title": "GANTEE: Generative Adversarial Network for Taxonomy Enterance Evaluation",
+      "authors": [
+        "Zhouhong Gu",
+        "Sihang Jiang",
+        "Jingping Liu",
+        "Yanghua Xiao",
+        "Hongwei Feng",
+        "Zhixu Li",
+        "Jiaqing Liang",
+        "Zhong Jian"
+      ],
+      "date": "2023-03-25",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2303.14480",
+        "url": "https://arxiv.org/abs/2303.14480",
+        "date": "2023-03-25",
+        "title": "GANTEE: Generative Adversatial Network for Taxonomy Entering Evaluation"
+      },
+      "publication": {
+        "title": "GANTEE: Generative Adversarial Network for Taxonomy Enterance Evaluation",
+        "venue": "AAAI 2023",
+        "publication_date": "2023-06-26",
+        "date_precision": "day",
+        "doi": "10.1609/aaai.v37i5.25785",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25785",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://ojs.aaai.org/index.php/AAAI/article/view/25785",
+          "https://api.crossref.org/works/10.1609%2Faaai.v37i5.25785"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": [
+        "GANTEE: Generative Adversatial Network for Taxonomy Entering Evaluation"
+      ]
+    },
+    {
+      "id": "2022.coling-1.481",
+      "title": "Parsing Natural Language into Propositional and First-Order Logic with Dual Reinforcement Learning",
+      "authors": [
+        "Xuantao Lu",
+        "Jingping Liu",
+        "Zhouhong Gu",
+        "Hanwen Tong",
+        "Chenhao Xie",
+        "Junyang Huang",
+        "Yanghua Xiao",
+        "Wenguang Wang"
+      ],
+      "date": "2022-10",
+      "date_precision": "month",
+      "date_basis": "publication",
+      "arxiv": null,
+      "publication": {
+        "title": "Parsing Natural Language into Propositional and First-Order Logic with Dual Reinforcement Learning",
+        "venue": "COLING 2022",
+        "publication_date": "2022-10",
+        "date_precision": "month",
+        "doi": null,
+        "url": "https://aclanthology.org/2022.coling-1.481/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://aclanthology.org/2022.coling-1.481/"
+        ]
+      },
+      "extra_links": []
+    },
+    {
+      "id": "2203.14921",
+      "title": "Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision",
+      "authors": [
+        "Sijie Cheng",
+        "Zhouhong Gu",
+        "Bang Liu",
+        "Rui Xie",
+        "Wei Wu",
+        "Yanghua Xiao"
+      ],
+      "date": "2022-03-28",
+      "date_precision": "day",
+      "date_basis": "arxiv",
+      "arxiv": {
+        "id": "2203.14921",
+        "url": "https://arxiv.org/abs/2203.14921",
+        "date": "2022-03-28",
+        "title": "Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision"
+      },
+      "publication": {
+        "title": "Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision",
+        "venue": "ICDE 2022",
+        "publication_date": "2022-05",
+        "date_precision": "month",
+        "doi": "10.1109/icde53745.2022.00310",
+        "url": "https://ieeexplore.ieee.org/document/9835349/",
+        "status": "published",
+        "acceptance_date": null,
+        "acceptance_date_precision": null,
+        "acceptance_source": null,
+        "verification": "primary-confirmed",
+        "sources": [
+          "https://ieeexplore.ieee.org/document/9835349/",
+          "https://api.crossref.org/works/10.1109%2FICDE53745.2022.00310"
+        ]
+      },
+      "extra_links": [],
+      "title_aliases": []
+    },
+    {
+      "id": "shikumen-2011",
+      "title": "我爱我家——上海石库门",
+      "authors": [
+        "顾洲洪"
+      ],
+      "date": "2011",
+      "date_precision": "year",
+      "date_basis": "scholar",
+      "arxiv": null,
+      "publication": {
+        "title": "我爱我家——上海石库门",
+        "venue": "现代语文：中旬·教学研究",
+        "publication_date": "2011",
+        "date_precision": "year",
+        "doi": null,
+        "url": "https://scholar.google.com/citations?user=YCfdAqEAAAAJ&hl=en",
+        "status": "published",
+        "verification": "author-profile-only",
+        "sources": [
+          "https://scholar.google.com/citations?user=YCfdAqEAAAAJ"
+        ]
+      },
+      "extra_links": []
+    }
+  ]
+}
